@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Bem vindo ao clone do tabnew</h1>;
+  return <h1>Bem vindo ao clone do tabnews!</h1>;
 }
 
 export default Home;
